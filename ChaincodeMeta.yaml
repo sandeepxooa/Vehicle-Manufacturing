@@ -1,0 +1,5 @@
+chaincodes:
+  MM-Wallet:
+    path: /
+    language: composer
+  

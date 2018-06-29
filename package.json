@@ -1,0 +1,11 @@
+{
+  "name": "mm-wallet",
+  "version": "0.0.1",
+  "description": "Wallet Code",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Sandeep Patel",
+  "email": "sandeep.patel@alepo.com",
+  "license": "Apache-2.0"
+}
