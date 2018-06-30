@@ -1,5 +1,5 @@
 chaincodes:
-  MM-Wallet:
+  Vehicle-Manufacturing:
     path: /
     language: composer
   
